@@ -1,0 +1,24 @@
+
+{
+  "development": {
+    "username": "root",
+    "password": null,
+    "database": "database_development",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "zobvhybadxlbpn",
+    "password": "6a09d9e9c1715caca2b7fbde59be0c8ce689451a8b5244b916b17512f432b29a",
+    "database": "d4a2nuf0mpmnu9",
+    "host": "ec2-44-194-225-27.compute-1.amazonaws.com",
+    "dialect": "postgres"
+  }
+}
